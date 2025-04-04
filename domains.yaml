@@ -1,0 +1,5 @@
+domains:
+  - localhost
+  - test.localhost
+  - dev.local
+  - api.localhost
